@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: AE170_PDU_02.04.PcbDoc   3/25/2024  2:57:12 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : AE170_PDU_02.04-RoundHoles.TXT
+ASCII SlotHoles File : AE170_PDU_02.04-SlotHoles.TXT
+EIA File   : AE170_PDU_02.04.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.2mm (7.874mil)         Round          21               40.93 mm (1.61 Inch)
+T2        0.3mm (11.811mil)        Round          373              1201.67 mm (47.31 Inch)
+T3        0.9mm (35.433mil)        Round          9                25.40 mm (1.00 Inch)
+T4        0.9mm (35.433mil)        Slot           6                7283.40 mm (286.75 Inch)
+T5        1mm (39.37mil)           Round          4                7.50 mm (0.30 Inch)
+T6        1.1mm (43.307mil)        Round          8                33.50 mm (1.32 Inch)
+T7        1.2mm (47.244mil)        Slot           4                7295.28 mm (287.22 Inch)
+T8        1.5mm (59.055mil)        Slot           2                7278.81 mm (286.57 Inch)
+T9        2mm (78.74mil)           Round          2         NPTH   43.40 mm (1.71 Inch)
+T10       3.3mm (129.921mil)       Round          4         NPTH   232.00 mm (9.13 Inch)
+---------------------------------------------------------------------------
+Totals                                            433              23441.88 mm (922.91 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
