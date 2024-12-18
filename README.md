@@ -2,16 +2,17 @@
 
 This is a repository containing the design files and user manual for the Powerboard v10.
 
-This was developed by a collaboration between Ambimat Electronics and the University of Pennsylvania.
+Developed by a collaboration between Ambimat Electronics and the University of Pennsylvania.
 
-To purchase, please order from this link: [Ambimat Electronics Powerboard Purchase Link](https://orders.ambimat.com/product/f1tenth-power-board/). \
-Reach out to neel.shah@ambimat.com in case there is any issue with the website.
+To purchase, please order from this link: [Ambimat Electronics Powerboard Purchase Link](https://orders.ambimat.com/product/f1tenth-power-board/).
+
+Please reach out to neel.shah@ambimat.com in case there is any issue with the website.
 
 ## Repository layout
 
 ### Explanation of important files/folders
 
-- ```DATASHEET_Powerboard_v10.pdf```: Contains a description of the capabilities of the board. 
+- ```Powerboard_v10_1_User_Manual.pdf```: Contains a description of the capabilities of the board. 
   - Relevant to everyone looking to purchase/fabricate/modify the existing design.
 - ```hardware_design_files\```: Folder containing the bill of materials, schematics, PCB layout files (Altium), and gerber files.
     - Relevant if you want to get the board fabricated yourself.
@@ -21,8 +22,8 @@ Reach out to neel.shah@ambimat.com in case there is any issue with the website.
 ### File layout
 ```
 .
+│   Powerboard_v10_1_User_Manual.pdf
 │   README.md
-│   DATASHEET_Powerboard_v10.pdf
 │
 ├───hardware_design_files
 │   │   BOM.xlsx
