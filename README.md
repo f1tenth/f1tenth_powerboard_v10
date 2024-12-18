@@ -11,7 +11,7 @@ Reach out to neel.shah@ambimat.com in case there is any issue with the website.
 
 ### Explanation of important files/folders
 
-- ```USERMANUAL_Powerboard_v10.pdf```: Contains a description of the capabilities of the board. 
+- ```DATASHEET_Powerboard_v10.pdf```: Contains a description of the capabilities of the board. 
   - Relevant to everyone looking to purchase/fabricate/modify the existing design.
 - ```hardware_design_files\```: Folder containing the bill of materials, schematics, PCB layout files (Altium), and gerber files.
     - Relevant if you want to get the board fabricated yourself.
@@ -22,7 +22,7 @@ Reach out to neel.shah@ambimat.com in case there is any issue with the website.
 ```
 .
 │   README.md
-│   USERMANUAL_Powerboard_v10.pdf
+│   DATASHEET_Powerboard_v10.pdf
 │
 ├───hardware_design_files
 │   │   BOM.xlsx
